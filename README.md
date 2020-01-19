@@ -1,9 +1,12 @@
-# GreatLakes-AIML-1Jan2020-Capstone-DetectPneumonia
-GreatLakes/AIML-1Jan2020/Capstone/DetectPneumonia
-This is the AIML-1 Jan2020 batch capstone project 
-This repository consists is build to collabarate wiht follwoign team to develop a solution pertaining to Pneumonia Detection Challenge using Deep Learning with the help of medical imaging data provided by Kaggle.
+# GreatLakes-AIML-1 Jan2020 Team - Capstone Project - Pneumonia Detection Challenge
 
-Refer the link for  problem description: 
+
+This is the AIML-1 Jan2020 batch capstone project 
+
+
+This repository is built to collaborate with following team to develop a solution pertaining to Pneumonia Detection Challenge using Deep Learning with the help of medical imaging data provided by Kaggle.
+
+Refer the link for problem description: 
 ./Pneumonia Detection Challenge Brief.pdf
 Refer the link for data: 
 https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data
@@ -16,7 +19,7 @@ The following are several Jupyter notebooks covering the basics of downloading a
 <TBU>
   
   
-How To Run
+How to Run
 <TBU>
   
   
