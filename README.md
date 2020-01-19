@@ -16,13 +16,18 @@ The following are several Jupyter notebooks covering the basics of downloading a
 
 
 
-<TBU>
+TBU
   
   
+  
+  
+
 How to Run
-<TBU>
+TBU
   
   
-  
+
+
+
 Regards
--Greatlakes AIML-1 Jan2020 Team.
+Greatlakes AIML-1 Jan2020 Team.
